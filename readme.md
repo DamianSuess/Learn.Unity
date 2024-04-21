@@ -15,6 +15,12 @@ Yes, as time progresses this is going to be a mix of pre-canned tutorials and ot
 
 The [.gitignore](https://github.com/github/gitignore/blob/main/Unity.gitignore) is the official one from GitHub. To function correctly, it must be placed in the root of each project folder, not the root of the repository.
 
-## Games
+## Projects
 
-* Lego Micro-game
+### Games
+
+* Lego Micro-game - _Unity sample game with basic physics, collision detection, and enemies_
+
+### VR
+
+* VR Template Test - _Bare-bones project for the Meta Quest 2_
