@@ -24,3 +24,7 @@ The [.gitignore](https://github.com/github/gitignore/blob/main/Unity.gitignore) 
 ### VR
 
 * VR Template Test - _Bare-bones project for the Meta Quest 2_
+
+### Misc
+
+* Empty Project - _Empty project space, showing near-minimum files used by Unity_
